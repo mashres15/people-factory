@@ -1,10 +1,22 @@
 body {
     padding: 1rem;
+    background-image: url(CloudsHeader.png);
+    background-size: cover;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
 }
-
 section > div {
     width: 80%;
     margin: 20px auto;
+}
+#heading{
+    color: #ffffff;
+}
+
+label{
+    font-weight: bold;
+    font-size: 20px;
 }
 
 #personForm {
